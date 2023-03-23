@@ -26,4 +26,4 @@ app.listen(9800,()=> {
                     }) 
 
 
-MONGO_URL = mongodb+srv://admin:Hiy1317@cluster0.iqisjuh.mongodb.net/?retryWrites=true&w=majority
+
